@@ -1,3 +1,18 @@
+<p align="center">
+  <picture>
+    <source
+      width="256px"
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/morphe-logo/morphe_logo_with_frame.svg"
+    >
+    <img 
+      width="256px"
+      src="assets/morphe-logo/morphe_logo_with_frame.svg"
+    >
+  </picture>
+   <br>
+</p>
+
 # Branding
 
 ## ©️ Copyright Notice
