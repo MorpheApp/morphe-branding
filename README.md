@@ -10,7 +10,7 @@
       src="assets/morphe-logo/morphe_logo_with_frame.svg"
     >
   </picture>
-   <br>
+  <br />
 </p>
 
 # Branding
