@@ -8,7 +8,7 @@
     <img 
       width="256px"
       src="assets/morphe-logo/morphe_logo_with_frame.svg"
-    >
+     alt="Morphe">
   </picture>
   <br />
 </p>
