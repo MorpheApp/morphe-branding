@@ -27,4 +27,4 @@ This includes, but is not limited to:
 To use Morphe branding, you must first obtain **explicit written permission** for your specific purpose.
 
 ### Requesting Permission
-To request permission, please open an issue in the **Morphe Branding Repository** with details about your intended usage.
+To request permission, please open an issue in the **Morphe Branding Repository** (this repo) with details about your intended usage.
